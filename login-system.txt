@@ -1,2 +1,3 @@
 type in Username
 type in password
+type in your account name
